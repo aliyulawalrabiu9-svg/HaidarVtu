@@ -1,0 +1,6 @@
+{
+  "name": "VTU Wallet",
+  "description": "A premium mobile Virtual Top-Up (VTU) and bill payment app with secure local transactions, wallet funding, and interactive billing logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
